@@ -16,7 +16,6 @@ class OS(enum.Enum):
 class Language(enum.Enum):
     ENG = 'eng'
 
-
 class ItemAttributes:
     def __init__(self, item_type, item_power, armor, attributes, item_weight):
         self.item_type = item_type
