@@ -1,0 +1,84 @@
+{
+    "weights": {
+        "Amulet": {
+            "Trap Skill Cooldown Reduction": 6,
+            "Ranks of the Exploit Passive": 6,
+            "Cooldown Reduction": 4,
+            "Damage Reduction from Close Enemies": 3,
+            "Dexterity": 2
+        },
+        "Ring": {
+            "Critical Strike Chance": 6,
+            "Critical Strike Damage": 6,
+            "Maximum Life": 4,
+            "Damage to Slowed Enemies": 3,
+            "Lucky Hit Chance": 3,
+            "Dexterity": 2,
+            "Life": 1
+        },
+        "Chest": {
+            "Total Armor": 6,
+            "Damage Reduction": 6,
+            "Maximum Life": 5,
+            "All Stats": 3,
+            "Dexterity": 1
+        },
+        "Gloves": {
+            "Ranks of Rapid Fire": 10,
+            "Critical Strike Chance": 6,
+            "Attack Speed": 5
+        },
+        "Pants": {
+            "Damage Reduction": 6,
+            "Maximum Life": 5,
+            "Damage Reduction from Close Enemies": 3,
+            "Damage Reduction from Distant Enemies": 3,
+            "Attack Speed": 5
+        },
+        "Helm": {
+            "Cooldown Reduction": 5,
+            "Maximum Life": 5,
+            "Intelligence": 3,
+            "Damage Reduction from Distant Enemies": 3,
+            "Dexterity": 1
+        },
+        "Bow": {
+            "Damage": 8,
+            "All Stats": 3,
+            "Dexterity": 5,
+            "Vulnerable Damage": 4,
+            "Damage to Distant Enemies": 3
+        },
+        "Boots": {
+            "Armor": 6,
+            "Critical Strike Chance": 6,
+            "Critical Strike Damage": 6,
+            "Damage to Slowed Enemies": 3,
+            "Lucky Hit Chance": 3,
+            "Dexterity": 2
+        }
+    },
+    "my_items": [
+        {
+            "type": "Amulet",
+            "attributes": {
+                "Resistance to All Elements": 13.8,
+                "Dexterity": 3.8,
+                "willpower": 2.0,
+                "Marksman Skill Damage": 5.5,
+                "Ultimate Skill Damage": 9.5
+            }
+        },
+        {
+            "type": "Boots",
+            "attributes": {
+                "Max Evade Charges": 2.0,
+                "Armor": 331.0,
+                "Strength": 31,
+                "Shadow Resistance": 27.0,
+                "All Stats": 11.0,
+                "Intelligence": 28.0
+            }
+        }
+    ]
+}

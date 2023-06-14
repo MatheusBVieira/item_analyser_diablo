@@ -1,0 +1,147 @@
+Stat,Description,Class
+Armor,Physical damage reduction,all
+Attack Speed,"Attacking faster than your base weapon speed, represented by attacks per second",all
+Cold Resistance,Cold damage reduction,all
+Critical Strike Chance,Chance for a Critical Strike (50% more damage),all
+Critical Strike Damage,Damage dealt during a Critical Strike,all
+Damage,All damage dealt,all
+Damage Reduction from DOT,Reduces damage taken from Damage-Over-Time effects (ie. Poison),all
+Damage vs Crowd Controlled,Damage dealt to enemies affected by Crowd Control status effects (ie. Slow),all
+Damage vs Elites,"Damage dealt to Champions, Elites, Bosses, and players",all
+Damage with Basic,Damage for skills that have the “Basic” tag,all
+Damage with Core,Damage for skills that have the “Core” tag,all
+Damage with Skills,Damage dealt by all skills,all
+Dodge Chance,Chance to dodge an attack and take no damage,all
+Fire Resistance,Fire damage reduction,all
+Damage to Slowed Enemies, dano, all
+Healing from Potions,How much HP you recover from using a Life Potion,all
+Life,Total HP,all
+Maximum Life,Total HP,all
+Life on Kill,HP recovered after defeating an opponent,all
+Life Regeneration,Percentage of life regenerated per second out of combat,all
+Lightning Resistance,Lightning damage reduction,all
+Movement Speed,How fast you move (it’s always at 100% by default),all
+Overpower Chance,Chance for a skill’s damage to be replaced by Overpower’s damage (sum of your current Life and Fortified Life),all
+Poison Resistance,Poison damage reduction (also applies to Poison damage over time),all
+Potion Charges,How many Potions you can use (default value is four),all
+Resist All,Non-physical damage reduction,all
+Shadow Resistance,Shadow damage reduction,all
+Vulnerable Damage,How much extra damage you deal to vulnerable enemies,all
+Weapon Damage,The damage of your equipped weapon,all
+Weapon Speed,The speed at which your equipped weapon attacks,all
+Berserking Duration,The amount of time you can stay Berserk (from all sources),Barbarians
+Control Impaired Duration Reduction,Reduces duration of control impairing effects (ie. Slow),Barbarians
+Critical Strike Damage with One-Handed,Increased damage by Critical Strikes done with a One-Handed weapon,Barbarians
+Damage Reduction from Bleeding,Reduces damage from Bleeding effects,Barbarians
+Damage Reduction from Close,Reduces damage from enemies in melee range,Barbarians
+Damage Reduction from Vulnerable,Reduces damage from enemies with the Vulnerable status,Barbarians
+Damage Reduction while Fortified,Reduces damage taken when your Fortify status is greater than your current life,Barbarians
+Damage Reduction while Healthy,Reduces damage taken when your life is above 80%,Barbarians
+Damage vs Bleeding,Damage dealt to enemies with the Bleeding status,Barbarians
+Damage while Berserking,Damage dealt while Berserked,Barbarians
+Damage while Fortified,Damage dealt when your Fortify status is greater than your current life,Barbarians
+Damage while Healthy,Damage dealt when your life is above 80%,Barbarians
+Damage with Axe,Damage dealt with One-Handed or Two-Handed axes,Barbarians
+Damage with Bleeding,Bleeding damage (DOT effects),Barbarians
+Damage with Bludgeoning,Damage with a Two-Handed bludgeoning weapon,Barbarians
+Damage with Mace,Damage dealt with One-Handed or Two-Handed maces,Barbarians
+Damage with One-Handed,Damage dealt with One-Handed weapons,Barbarians
+Damage with Physical,Damage dealt with Physical attacks (including Bleeding damage),Barbarians
+Damage with Polearm,Damage dealt with Two-Handed polearms,Barbarians
+Damage with Slashing,Damage dealt with Two-Handed slashing weapons,Barbarians
+Damage with Swapped Weapons,Damage dealt with weapons that switch during combat,Barbarians
+Damage with Sword,Damage dealt with One-Handed or Two-Handed swords,Barbarians
+Elite Kill Movement Speed,"Movement speed gained after defeating Elite enemies, Champions, Bosses, or other players",Barbarians
+Fortify,Fortify gained from Fortify effects,Barbarians
+Fury Generation,How much Fury you gain,Barbarians
+Fury on Kill,The Fury gained when you kill an enemy,Barbarians
+Maximum Fury,The maximum amount of Fury you can hold,Barbarians
+Overpower Damage,Extra damage dealt with the Overpower status,Barbarians
+Thorns,Damage dealt when melee attackers attack you,Barbarians
+Control Impaired Duration Reduction,Reduces duration of control impairing effects (ie. Slow),Druids
+Critical Strike Damage with Earth,Damage by Critical Strikes done with Earth skills,Druids
+Damage Reduction from Poisoned,Reduces damage from enemies with the Poisoned status,Druids
+Damage Reduction from Vulnerable,Reduces damage from enemies with the Vulnerable status,Druids
+Damage Reduction while Fortified,Reduces damage taken when your Fortify status is greater than your current life,Druids
+Damage Vs Poisoned,Damage dealt to Poisoned enemies,Druids
+Damage while Human,Damage dealt while in Human form,Druids
+Damage while Werebear,Damage dealt while in Werebear form,Druids
+Damage while Werewolf,Damage dealt while in Werewolf form,Druids
+Damage with Companion,Damage for skills that have the “Companion” tag,Druids
+Damage with Earth,Damage for skills that have the “Earth” tag,Druids
+Damage with Nature Magic,Damage for skills that have the “Nature Magic” tag,Druids
+Damage with Physical,Damage dealt with Physical attacks (including Bleeding damage),Druids
+Damage with Poison,Damage dealt by Poison attacks (including Damage-Over-Time),Druids
+Damage with Shapeshifting,Damage for skills that have the “Shapeshifting” tag,Druids
+Damage with Werebear,Damage for skills that have the “Werebear” tag,Druids
+Damage with Werewolf,Damage for skills that have the “Werewolf” tag,Druids
+Maximum Spirit,The maximum amount of Spirit you can hold,Druids
+Overpower Damage,Extra damage dealt with the Overpower status,Druids
+Spirit Generation,Get more Spirit when obtaining it from any Spirit-restoring source,Druids
+Spirit on Kill,Restore Spirit when you kill an enemy,Druids
+Werebear Armor,Armor when you transform into a Werebear,Druids
+Chill Application,How quickly your Chill can Freeze enemies,Sorcer
+Control Impaired Duration Reduction,Reduces duration of control impairing effects (ie. Slow),Sorcer
+Damage Reduction from Burning,Reduces damage from enemies with the Burning status,Sorcer
+Damage Reduction from Chill,Reduces damage from enemies with the Chill status,Sorcer
+Damage Reduction from Elites,"Reduces damage from Elite enemies, Champions, Bosses, or other players",Sorcer
+Damage Vs Burning,Damage dealt to Burning enemies,Sorcer
+Damage Vs Chill,Damage dealt to Chilled enemies,Sorcer
+Damage Vs Stunned,Damage dealt to Stunned enemies,Sorcer
+Damage with Cold,Damage dealt with Cold attacks,Sorcer
+Damage with Conjuration,Damage for skills that have the “Conjuration” tag,Sorcer
+Damage with Crackling Energy,Damage for Crackling Energy applications,Sorcer
+Damage with Fire,Damage for Fire skills (including Burning Damage-Over-Time),Sorcer
+Damage with Fire Over Time,Damage for Fire Damage-Over-Time skills (not direct Fire damage),Sorcer
+Damage with Lightning,Damage for Lightning skills,Sorcer
+Damage with Mastery,Damage for skills that have the “Mastery” tag,Sorcer
+Damage with Non-Physical,Damage dealt from direct Non-Physical attacks and Damage-Over-Time,Sorcer
+Lucky Hit Chance,Chance of triggering Lucky Hits when using skills,Sorcer
+Mana Cost Reduction,Amount of mana taken away from mana costs,Sorcer
+Mana Regeneration,Amount of mana regenerated per second,Sorcer
+Maximum Mana,Total spellcasting capacity,Sorcer
+Critical Strike Damage vs Crowd Controlled,Extra damage for skills against Crowd Controlled enemies,Rogues
+Damage Reduction From Distant,Reduces damage from enemies outside melee range,Rogues
+Damage Reduction From Slowed,Reduces damage from Slowed enemies,Rogues
+Damage Reduction From Trapped,Reduces damage from enemies affected by Traps,Rogues
+Damage from Dodging,Bonus damage dealt after dodging. Duration that you can deal bonus damage is also affected,Rogues
+Damage vs Close,Damage dealt to enemies in melee range,Rogues
+Damage vs Distant,Damage dealt to enemies who are out of melee range,Rogues
+Damage vs Injured,Damage dealt to enemies below 35% life,Rogues
+Damage vs Trapped,Damage dealt to enemies affected by Traps,Rogues
+Damage with Cutthroat,Damage for skills that have the “Cutthroat” tag,Rogues
+Damage with Imbued,Damage for skills that have the “Imbued” tag,Rogues
+Damage with Marksman,Damage for skills that have the “Marksman” tag,Rogues
+Damage with Trap,Damage for skills that have the “Trap” tag,Rogues
+Energy Regeneration,Energy recovered per second,Rogues
+Imbuement Cooldown Reduction,Cooldown reduced for Imbuements,Rogues
+Trap Cooldown Reduction,Cooldown reduced for Traps,Rogues
+Armor From Golem,Armor received from Golem while it is alive,Necromancers
+Critical Strike Damage with Bone,Extra damage with Bone skills when they Critically Strike,Necromancers
+Damage Reduction from DOT,Reduces damage from Damage-Over-Time effects,Necromancers
+Damage Reduction from Shadow DOT,Reduces damage from Shadow Damage-Over-Time effects,Necromancers
+Damage from Blood Orb,Damage bonus gained from picking up a Blood Orb and the duration of the bonus,Necromancers
+Damage from Golem,Damage gained from Golem while it is alive,Necromancers
+Damage vs Shadow DOT,Damage dealt to enemies with Shadow Damage-Over-Time effects,Necromancers
+Damage with Bone,Damage for skills that have the “Bone” tag,Necromancers
+Damage with Golem,Damage dealt by your Golem,Necromancers
+Damage with Mages,Damage dealt by your Skeletal Mages,Necromancers
+Damage with Minions,"Damage dealt by summoned minions (Golem, Skeletal Warriors, Skeletal Mages)",Necromancers
+Damage with Shadow,Damage dealt by Shadow attacks (including DOT),Necromancers
+Damage with Shadow DOT,Damage dealt by Shadow DOT attacks,Necromancers
+Damage with Warrior,Damage dealt by your Skeletal Warriors,Necromancers
+Essence Generation,Boosts Essence gained from Essence restoring sources,Necromancers
+Essence on Kill,Essence gained when killing enemies,Necromancers
+Golem Armor,Armor that the Golem has,Necromancers
+Golem Attack Speed,How fast the Golem attacks,Necromancers
+Golem Life,Maximum life of Golem,Necromancers
+Golem Resist All,Resistance for non-Physical attacks against the Golem,Necromancers
+Healing from Blood Orbs,Increases healing received from Blood Orbs,Necromancers
+Life on Kill,Life regained per enemy kill,Necromancers
+Mage Resist All,Resistance for non-Physical attacks against Skeletal Mages,Necromancers
+Maximum Essence,Used to cast skills,Necromancers
+Minion Armor,"Armor for all summoned minions (Golem, Skeletal Warriors, Skeletal Mages)",Necromancers
+Minion Damage Reduction,Damage reduced for minions from all sources,Necromancers
+Minion Life,Life for all of your minions,Necromancers
+Vulnerable Damage,Damage dealt to Vulnerable enemies,Necromancers
+Warrior Armor,Armor that your Skeletal Warriors have,Necromancers
