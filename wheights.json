@@ -58,27 +58,21 @@
             "Dexterity": 2
         }
     },
-    "my_items": [
-        {
-            "type": "Amulet",
-            "attributes": {
-                "Resistance to All Elements": 13.8,
-                "Dexterity": 3.8,
-                "willpower": 2.0,
-                "Marksman Skill Damage": 5.5,
-                "Ultimate Skill Damage": 9.5
-            }
+    "my_items": {
+        "Amulet": {
+            "Resistance to All Elements": 13.8,
+            "Dexterity": 3.8,
+            "willpower": 2.0,
+            "Marksman Skill Damage": 5.5,
+            "Ultimate Skill Damage": 9.5
         },
-        {
-            "type": "Boots",
-            "attributes": {
-                "Max Evade Charges": 2.0,
-                "Armor": 331.0,
-                "Strength": 31,
-                "Shadow Resistance": 27.0,
-                "All Stats": 11.0,
-                "Intelligence": 28.0
-            }
+        "Boots": {
+            "Max Evade Charges": 2.0,
+            "Armor": 331.0,
+            "Strength": 31,
+            "Shadow Resistance": 27.0,
+            "All Stats": 11.0,
+            "Intelligence": 28.0
         }
-    ]
+    }
 }
